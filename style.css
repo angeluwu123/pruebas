@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Syne Mono', monospace;
+
+    
+ }
+ /**
+==================================Titulo de la pagina==================================
+  */
+
+.Tittle {
+    text-align: center;
+    margin: 15px;
+    color: rgb(50, 125, 187);
+    font-size: 35px;
+
+}
+ /**
+=========================================================================================
+  */
+
+ /**
+==================================Barra de Navegacion==================================
+  */
+
+ header{
+   background-color: rgb(234, 241, 245);
+   padding-top: 10px;
+   padding-bottom: 10px;
+ }
+ 
+
+nav{
+  height: 80px;
+  background-color:#a0b1f5;
+  text-align: center;
+}
+
+nav ul{
+   list-style: none;
+   display: inline-block;
+   padding:18px;
+}
+
+nav ul li{
+    float: left;
+    margin-top: 10px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 18px;
+}
+
+nav ul li a:hover{
+  background-color: #b0c1f6;
+}
+
+ /**
+=========================================================================================
+  */ 
+
+ /**
+==================================Imagenes==================================
+  */
+
+#comu {
+    display: block;
+    margin: auto;
+    
+}
+
+#cta {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+
+#mate {
+    display: block;
+    margin: auto;
+}
+
+#ingles {
+    display: block;
+    margin: auto;
+}
+
+#religion{
+    display: block;
+    margin: auto;
+}
+
+#ept {
+    display: block;
+    margin: auto;
+    width: 800px;
+    height: 400px;
+}
+
+#tutoria {
+    display: block;
+    margin: auto;
+    
+}
+
+#fisica {
+    display: block;
+    margin: auto;
+}
+
+#arte {
+    display: block;
+    margin: auto;
+}
+
+#titulo1 {
+    text-align: center;
+    margin: 120px;
+    font-size: 100px;
+    
+}
+
+#titulo2 {
+    text-align: center;
+    margin: 120px;
+    font-size: 100px;
+    
+}
+
+ /**
+=========================================================================================
+  */ 
